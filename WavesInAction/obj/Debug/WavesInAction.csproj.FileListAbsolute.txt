@@ -1,0 +1,5 @@
+H:\Projects\WavesInAction\WavesInAction\bin\WavesInAction.dll
+H:\Projects\WavesInAction\WavesInAction\bin\WavesInAction.pdb
+H:\Projects\WavesInAction\WavesInAction\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\WavesInAction\WavesInAction\obj\Debug\WavesInAction.dll
+H:\Projects\WavesInAction\WavesInAction\obj\Debug\WavesInAction.pdb

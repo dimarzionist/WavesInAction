@@ -1,0 +1,205 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Controllers/f:HomeController.cs" caret="314" fromTop="15" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Content/f:Site.css" caret="0" fromTop="0" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Shared/f:_Layout.cshtml" caret="96" fromTop="4" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6001" fromTop="181" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="316" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="21" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="28" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Shared/f:_Layout.cshtml" caret="96" fromTop="4" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="8" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="35" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="21" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="0" fromTop="0" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="19" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="23" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="29" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="48" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="10" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="31" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="23" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="899" fromTop="19" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="898" fromTop="9" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="546" fromTop="38" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="241" fromTop="18" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6410" fromTop="26" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6410" fromTop="25" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="5979" fromTop="10" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="5999" fromTop="25" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6511" fromTop="39" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6411" fromTop="25" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="5979" fromTop="16" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6400" fromTop="25" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6268" fromTop="21" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="165" fromTop="7" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Scripts/f:waves.js" caret="6001" fromTop="30" />
+      <File id="D8546A04-0B9F-45DE-B698-E001E12F5641/d:Views/d:Home/f:Index.cshtml" caret="316" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="string" priority="30" />
+      <Item value="_Layout.cshtml" priority="18" />
+      <Item value="Url" priority="59" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="function" priority="153" />
+      <Item value="var" priority="131" />
+      <Item value="m" priority="131" />
+      <Item value="for" priority="153" />
+      <Item value="x" priority="241" />
+      <Item value="xMax" priority="43" />
+      <Item value="y" priority="197" />
+      <Item value="yMax" priority="32" />
+      <Item value="element" priority="10" />
+      <Item value="resultHtml" priority="76" />
+      <Item value="map" priority="141" />
+      <Item value="mapRow" priority="76" />
+      <Item value="initializeMap" priority="10" />
+      <Item value="_map" priority="21" />
+      <Item value="printMap" priority="43" />
+      <Item value="$" priority="39" />
+      <Item value="alert" priority="153" />
+      <Item value="Math" priority="76" />
+      <Item value="value" priority="43" />
+      <Item value="startPoint" priority="87" />
+      <Item value="endPoint" priority="87" />
+      <Item value="return" priority="32" />
+      <Item value="maxX" priority="10" />
+      <Item value="do" priority="21" />
+      <Item value="sp" priority="107" />
+      <Item value="getRandomPoint" priority="21" />
+      <Item value="ep" priority="164" />
+      <Item value="else" priority="109" />
+      <Item value="point" priority="21" />
+      <Item value="findRoute" priority="21" />
+      <Item value="mainMap" priority="32" />
+      <Item value="mapClone" priority="21" />
+      <Item value="cloneMap" priority="10" />
+      <Item value="while" priority="21" />
+      <Item value="isEndReached" priority="21" />
+      <Item value="currentRouteLength" priority="54" />
+      <Item value="maxAttempts" priority="43" />
+      <Item value="tmpMap" priority="87" />
+      <Item value="if" priority="54" />
+      <Item value="points" priority="186" />
+      <Item value="p" priority="98" />
+      <Item value="true" priority="43" />
+      <Item value="wave" priority="10" />
+      <Item value="notNilPoints" priority="54" />
+      <Item value="nguid" priority="8" />
+      <Item value="n" priority="21" />
+      <Item value="className" priority="76" />
+      <Item value="ewait" priority="10" />
+      <Item value="step" priority="21" />
+      <Item value="msg" priority="43" />
+      <Item value="route" priority="153" />
+      <Item value="cx" priority="21" />
+      <Item value="false" priority="10" />
+      <Item value="reachedStart" priority="21" />
+      <Item value="v" priority="21" />
+      <Item value="finalRoute" priority="32" />
+      <Item value="r" priority="87" />
+      <Item value="traceRouteBack" priority="21" />
+      <Item value="cy" priority="10" />
+      <Item value="attempts" priority="21" />
+      <Item value="demoMode" priority="10" />
+      <Item value="routeLength" priority="10" />
+      <Item value="height" priority="10" />
+      <Item value="width" priority="10" />
+      <Item value="event" priority="54" />
+      <Item value="mapPlaceholder" priority="21" />
+      <Item value="d" priority="21" />
+      <Item value="this" priority="10" />
+      <Item value="editorFlag" priority="32" />
+      <Item value="findRouteCallback" priority="21" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="5" />
+      <Item value="script" priority="12" />
+      <Item value="src" priority="11" />
+      <Item value="Index.cshtml" priority="5" />
+      <Item value="style" priority="6" />
+      <Item value="button" priority="5" />
+      <Item value="id" priority="5" />
+      <Item value="~" priority="5" />
+      <Item value="Scripts" priority="5" />
+      <Item value="waves.js" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="length" priority="152" />
+      <Item value="random" priority="44" />
+      <Item value="round" priority="35" />
+      <Item value="x" priority="17" />
+      <Item value="y" priority="8" />
+      <Item value="click" priority="19" />
+      <Item value="clientX" priority="26" />
+      <Item value="clientY" priority="17" />
+      <Item value="position" priority="9" />
+      <Item value="top" priority="17" />
+      <Item value="left" priority="9" />
+      <Item value="dblclick" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="mapPlaceholder" priority="9" />
+      <Item value="table" priority="17" />
+      <Item value="width" priority="17" />
+      <Item value="background" priority="9" />
+      <Item value="white" priority="6" />
+      <Item value="border-spacing" priority="5" />
+      <Item value="background-clip" priority="5" />
+      <Item value="background-color" priority="23" />
+      <Item value="findRoute" priority="4" />
+      <Item value="greenyellow" priority="6" />
+      <Item value="table-layout" priority="5" />
+      <Item value="display" priority="11" />
+      <Item value="tr" priority="5" />
+      <Item value="border-radius" priority="11" />
+      <Item value="darkgrey" priority="6" />
+      <Item value="text-align" priority="11" />
+      <Item value="font-size" priority="11" />
+      <Item value="overflow" priority="5" />
+      <Item value="lightblue" priority="6" />
+      <Item value="border" priority="5" />
+      <Item value="div" priority="29" />
+      <Item value="height" priority="5" />
+      <Item value="margin" priority="17" />
+      <Item value="float" priority="5" />
+      <Item value="h2" priority="5" />
+      <Item value="font" priority="5" />
+      <Item value="button" priority="5" />
+      <Item value="vertical-align" priority="5" />
+      <Item value="cursor" priority="5" />
+      <Item value="pointer" priority="6" />
+      <Item value="default" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Url" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Content`0" priority="55" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

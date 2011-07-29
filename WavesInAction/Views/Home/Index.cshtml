@@ -1,0 +1,63 @@
+﻿@model string
+
+@{
+	ViewBag.Title = "Waves in Action";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+	h2
+	{
+		font-family:Arial;
+		margin: 5px;		
+	}
+	button
+	{
+		margin:0px 0px 10px 0px;
+	}		
+	div
+	{
+		cursor: default;
+	}
+	div > div
+	{
+	}
+	div > div > div
+	{
+		width:15px;
+		height:15px;
+		margin:0px;
+		float: left;
+		border-radius: 2px;
+		margin:1px 1px 0px 0px;
+		font-size: 8px;
+		text-align: center;
+		vertical-align: middle;
+	}
+	.pass
+	{
+		background: white;
+	}
+	.wall
+	{
+		background: #777777;
+	}
+	.start
+	{
+		background-color: green;
+	}
+	.end
+	{
+		background-color: red;
+	}
+	.route
+	{
+		background-color: lightblue;
+	}
+	.trace
+	{
+		background-color: greenyellow;
+	}
+</style>
+<h2>Waves in Action</h2><button id="findRoute">Find route</button>
+<div id="mapPlaceholder"></div>
+<script src="@Url.Content("~/Scripts/waves.js")"></script>
