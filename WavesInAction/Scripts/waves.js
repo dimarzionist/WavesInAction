@@ -5,8 +5,8 @@
 	    demoMode = false,
 	    maxAttempts = 150,
 	    seed = 0.22222,
-	    width = 80,
-	    height = 40,
+	    width = 100,
+	    height = 50,
 	    waveDemoDelay = 10,
 	    editorFlag = true,
 	    mapPlaceholder = $('#mapPlaceholder'),
@@ -90,10 +90,30 @@
 	    	var tmpMap = cloneMap(map),
 	    	    isEndReached = false,
 	    	    currentRouteLength = 0,
+	    	    getProcessingRange = function (currentMap, algStartPoint, currentStepNumber) {
+	    	    	var range = {};
+	    	    	range.startX = algStartPoint.x - currentStepNumber;
+	    	    	range.endX = algStartPoint.x + currentStepNumber;
+	    	    	range.startY = algStartPoint.y - currentStepNumber;
+	    	    	range.endY = algStartPoint.y + currentStepNumber;
+	    	    	if (range.startX < 0) {
+	    	    		range.startX = 0;
+	    	    	}
+	    	    	if (range.startY < 0) {
+	    	    		range.startY = 0;
+	    	    	}
+	    	    	if (range.endX >= currentMap.length) {
+	    	    		range.endX = currentMap.length - 1;
+	    	    	}
+	    	    	if (range.endY >= currentMap[0].length) {
+	    	    		range.endY = currentMap[0].length - 1;
+	    	    	}
+	    	    	return range;
+	    	    },
 	    	    wave = function (m) {
-	    	    	var nx, ny, notNilPoints = [];
-	    	    	for (nx = 0; nx < m.length; nx += 1) {
-	    	    		for (ny = 0; ny < m[0].length; ny += 1) {
+	    	    	var nx, ny, notNilPoints = [], waveRange = getProcessingRange(m, sp, currentRouteLength + 1);
+	    	    	for (nx = waveRange.startX; nx <= waveRange.endX; nx += 1) {
+	    	    		for (ny = waveRange.startY; ny <= waveRange.endY; ny += 1) {
 	    	    			if (m[nx][ny] > 0) {
 	    	    				notNilPoints[notNilPoints.length] = { x: nx, y: ny };
 	    	    			}
